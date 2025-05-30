@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13291147224",
+    "firebase_url": "https://zabibufresh-1fc39-default-rtdb.firebaseio.com",
+    "project_id": "zabibufresh-1fc39",
+    "storage_bucket": "zabibufresh-1fc39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13291147224:android:609850d7464802a6a12cad",
+        "android_client_info": {
+          "package_name": "com.shoppy.shopkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13291147224-ghe17kp0c2qntpjrlkec7c6eo5u9as80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoppy.shopkart",
+            "certificate_hash": "5067683ae8a3ce5f603eb678688294147d8be20f"
+          }
+        },
+        {
+          "client_id": "13291147224-7fcbudgr7uve4pr589c8s6q6cm39hgda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuhUgJPHDfqjMBg9GWTl7P-0OXIB0yhcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13291147224-7fcbudgr7uve4pr589c8s6q6cm39hgda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
